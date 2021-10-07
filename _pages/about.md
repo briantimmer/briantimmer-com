@@ -3,6 +3,14 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+<iframe width="740" height="365" src="https://www.youtube.com/embed/NLNa_WXJBwQ" frameborder="0" allowfullscreen></iframe>
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+Thoughts on Stuff and Junk?
+
+This is just my piece of the big-scary-web where I pontificate on stuff, and junk. Not that everything I write about is junk…. it’s well, just a funny name.
+
+Books. Day-to-day gear. Productivity systems. We’re all looking for the best of them.
+
+Here’s where I opine about those things and hopefully help suss out the best of them.
+
+Thanks for visiting!
