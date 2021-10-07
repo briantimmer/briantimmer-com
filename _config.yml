@@ -17,8 +17,6 @@ title: Brian's Notes
 email:
 description: >- # this means to ignore newlines until "baseurl:"
   Thoughts on Stuff and Junk
-twitter_username: briantimmer
-github_username: briantimmer
 minimal_mistakes_skin: default
 search: true
 
@@ -63,24 +61,18 @@ author:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://briantimmer.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/briantimmer"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/briantimmer"
+    - label: "Goodreads"
+      icon: "fab fa-fw fa-goodreads"
+      url: "https://www.goodreads.com/user/show/51441021-brian-timmer"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/briantimmer"
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/briantimmer"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/briantimmer"
+    - label: "Goodreads"
+      icon: "fab fa-fw fa-goodreads"
+      url: "https://www.goodreads.com/user/show/51441021-brian-timmer"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/briantimmer"
