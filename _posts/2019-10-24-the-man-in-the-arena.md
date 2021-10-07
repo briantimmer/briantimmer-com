@@ -1,8 +1,6 @@
 ---
-layout: post
 title: "The Man in the Arena"
 date: 2019-10-24 07:39:55 -0400
-comments: true
 categories: quotes
 ---
 
