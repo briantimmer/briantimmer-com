@@ -55,7 +55,7 @@ Happy that I had found an earlier flight I resigned myself to my fate and went l
 
 With my belly full, sans a tasty brew, and figuring sleep wasn't really going to be an option, I went off exploring the airport. Being very tired from traveling all day I noticed I had developed a stumbling, lumbering gate. It reminded me of how a zombie walks. Looking at the other stranded people I noticed they were all doing the same thing, lumbering around aimlessly. I coined us all the "Airport Zombies".
 
-![]](/images/uploads/IMG_0332-150x150.jpg "While exploring...")
+![](/images/uploads/IMG_0332-150x150.jpg "While exploring...")
 
 While exploring I found a "charging chair" where you could plug in your phone and/or laptop to top off the battery. Since this had been a problem all day I decided to stop to charge my phone, and rest my legs. I sat there for a while, waiting for my phone to charge and watching the zombies stumble by. It was getting close to midnight and they started playing some recording over the intercom about only ticketed passengers were allowed in the concourse after midnight and anyone found without a ticket would be escorted out. I'm thinking "Seriously, you're going to send security out to shake down everyone here that's trying to sleep?" I would have been just a tad upset if some security guard came by and woke me up out of my, lucky, slumber, only to "check my papers". That would have resulted in some yelling and "evil eye" glares. Thankfully, that never happened.
 
