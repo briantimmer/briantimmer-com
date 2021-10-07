@@ -8,7 +8,7 @@ categories: [perspective, training]
 
 Barefoot or minimal shoe running seems to be all the rage these days with nearly every shoe company making something for this new market. Some may view it as a fad, but all you have to do is step back and look at it from a historical viewpoint to see that it's anything but a fad. We aren’t born with space age fancy air-gel-soles on our feet with super arch support and a padded heel. Why would we, now, suddenly in the last 50 to 100 years, need such inventions just to get by doing what we've been doing for a million years?
 
-{% img center /assets/images/Merrell-TrailGlove-barefoot-540x612.jpg %}
+![](/assets/images/Merrell-TrailGlove-barefoot-540x612.jpg)
 
 The biggest difference seems to be in the type of running technique we employ, fore (or mid) foot striking vs. heel striking.
 
