@@ -1,8 +1,6 @@
 ---
-layout: post
 title: "Barefoot Running, a beginner's perspective"
 date: 2012-07-15 20:26
-comments: true
 categories: [perspective, training]
 ---
 

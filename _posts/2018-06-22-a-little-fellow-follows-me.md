@@ -1,9 +1,7 @@
 ---
-layout: post
 title: "A Little Fellow Follows Me"
 date: 2016-06-11 07:36:13 -0400
-comments: true
-categories: 
+categories: quotes
 ---
 
 A careful man I want to be,<br>

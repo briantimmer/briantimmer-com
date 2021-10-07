@@ -1,10 +1,9 @@
 ---
-layout: post
 title: "Taking a leave of absence"
 date: 2012-06-25 20:23
-comments: true
 categories: [perspective, training]
 ---
+
 I've been studying Aikido since October of 2007. After putting in a tremendous amount of time and effort training I was able to get to Shodan (black belt) by August of 2010.
 
 That's no small feat. It took work and sacrifice, maybe too much...

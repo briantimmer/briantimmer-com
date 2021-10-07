@@ -1,10 +1,9 @@
 ---
-layout: post
 title: "What is Budo?"
 date: 2011-04-11 19:56
-comments: true
 categories: perspective
 ---
+
 What follows is my essay answering the question “What is Budo?” that was part of my Shodan test in Aikido (1st degree black belt). The question felt a bit vague to me, but what am I going to do? Press my Sensei and the testing committee on what they’re really looking for? I think not. Anyway I hope you like it.
 
 ## What is Budo?

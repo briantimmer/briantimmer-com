@@ -1,12 +1,10 @@
 ---
-layout: post
 title: "Live Your Life"
 date: 2012-12-27 20:09
-comments: true
-categories: [perspective, quotes]
+categories: quotes
 ---
 
-![](/assets/images/Death_of_Tecumseh.jpg 'Death of Tecumseh')
+![](/assets/images/Death_of_Tecumseh.jpg "Death of Tecumseh")
 
 > So live your life that the fear of death can never enter your heart. Trouble no one about their religion; respect others in their view and demand that they respect yours. Love your life, perfect your life, beautify all things in your life. Seek to make your life long and its purpose in the service of your people.
 

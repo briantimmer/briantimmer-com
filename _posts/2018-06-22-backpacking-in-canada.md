@@ -1,8 +1,6 @@
 ---
-layout: post
 title: "Backpacking in Canada"
 date: 2018-03-12 07:53:00 -0400
-comments: true
 categories: storytelling
 ---
 

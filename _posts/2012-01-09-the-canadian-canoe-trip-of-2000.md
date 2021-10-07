@@ -1,8 +1,6 @@
 ---
-layout: post
 title: "The Canadian canoe trip of 2000"
 date: 2012-01-09 20:14
-comments: true
 categories: storytelling
 ---
 

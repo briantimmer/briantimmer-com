@@ -1,10 +1,9 @@
 ---
-layout: post
 title: "Airport Zombie"
 date: 2012-01-29 20:16
-comments: true
 categories: storytelling
 ---
+
 ![](/images/uploads/IMG_0330-150x150.jpg "Airport Zombie")
 
 Friday, January 20th, 2012 at 9AM started the worst traveling experience I've ever had.

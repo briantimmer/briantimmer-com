@@ -1,10 +1,9 @@
 ---
-layout: post
 title: "My Current Morning Routine"
 date: 2018-02-22 07:42:44 -0400
-comments: true
-categories: 
+categories: perspective
 ---
+
 **05:00** Alarm goes off<br>
 **05:15** Drag myself out of bed 🙂<br>
 **05:30** Make my first cup of coffee<br>
@@ -17,7 +16,7 @@ categories:
 ##Why?
 I’m reminded of a passage from the book Resilience by Eric Greitens:
 
->Growing up without a father, my dad swore he’d be a father to his sons. He often left the house around four-thirty a.m. so that he could put in a day’s work and still be home when we came home from school. He coached our teams. In many ways, being a father was my dad’s vocation.
+> Growing up without a father, my dad swore he’d be a father to his sons. He often left the house around four-thirty a.m. so that he could put in a day’s work and still be home when we came home from school. He coached our teams. In many ways, being a father was my dad’s vocation.
 
 Getting up early is hard. Really hard. I’ve been trying to stick to an early rise for some time now. But, at last, I think I have it. It finally feels like routine and it’s so worth it.
 

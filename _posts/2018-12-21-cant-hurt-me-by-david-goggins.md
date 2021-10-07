@@ -1,10 +1,9 @@
 ---
-layout: post
-title:  "Can’t Hurt Me by David Goggins"
+title: "Can’t Hurt Me by David Goggins"
 date: 2018-12-21 07:39:55 -0400
-comments: true
-categories: reviews
+categories: books
 ---
+
 Like a lot of people I’ve been fascinated by David Goggins after I first heard about him and his accomplishments.
 
 I believe this is the first exposure I had to him:
@@ -21,7 +20,7 @@ From launch it’s pretty clear he had a ghost writer, no big surprise there, bu
 
 I knew quite a bit about his past, but the book dug deep into those topics and shed light on some new stuff. Let me tell you, if 50% of what is written in this book actually happened, it’s an amazing story.
 
-David Goggins is like the hard motherf**ker version of Forest Gump.
+David Goggins is like the hard motherf\*\*ker version of Forest Gump.
 
 He goes in-depth on what it took him to overcome abuse, racism, learning disabilities, health issues, and a healthy amount of self-loathing to become a US Navy SEAL, US Army Ranger, US Air Force Traffic Controller, champion ultra runner, Ironman, world record holder, and even wildfire fighter.
 
