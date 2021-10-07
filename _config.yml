@@ -58,9 +58,6 @@ author:
   avatar: "/assets/images/bio-photo.jpg"
   bio: "Dad, reader, woodworking n00b, business owner, has-been martial artist, and seeker of truth."
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://briantimmer.com"
     - label: "Goodreads"
       icon: "fab fa-fw fa-goodreads"
       url: "https://www.goodreads.com/user/show/51441021-brian-timmer"
