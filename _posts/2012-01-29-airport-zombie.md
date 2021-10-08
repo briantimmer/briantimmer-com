@@ -4,8 +4,6 @@ date: 2012-01-29 20:16
 categories: storytelling
 ---
 
-![](/images/uploads/IMG_0330-150x150.jpg "Airport Zombie")
-
 Friday, January 20th, 2012 at 9AM started the worst traveling experience I've ever had.
 
 Have you ever had to sleep in an airport? I'd never had the pleasure until just recently...
@@ -17,8 +15,6 @@ Until the aforementioned January 20th of 2012 when I was heading back home.
 Earlier that day my boss asked me if I had seen the weather in Chicago, where I'd be making my connection flight to Grand Rapids from O'Hare International. He mentioned that they'd be having a few inches of snow and wondered if I wanted to try to get an earlier flight out to beat the storm. Me, being a Michigander, laughed at the "few inches of snow" and figured Chicago would be more than capable of handling it and my flight would not be a problem.
 
 I left for the airport at 9AM to drop off my rental, get my tickets, get through security, and find my gate. All happened without incident and by 10:40AM the pilot had the bird in the air and I was happily heading home, byway of Chicago, and these "few inches of snow".
-
-![](/images/uploads/IMG_0324-225x300.jpg "Out the airplane window in Chicago")
 
 At around 12:30PM the pilot notifies us of our arrival and that weather in Chicago was a bit rough but we'd be landing shortly. Since my connection flight to Grand Rapids wasn't boarding until 2:00PM it was going to be a lazy, comfortable stroll to my gate, stopping for some lunch along the way. The flight from Chicago to Grand Rapids takes about 45 minutes so within a few hours I was going to be home, where I could rest up from traveling, catch up with my wife since I'd been gone for a week, and prep for my Land Navigation and Orienteering course that was happening on the 21st.
 
@@ -48,21 +44,15 @@ I sit there, in utter disappointment, as I watch them close the gate and all cha
 
 What do I do? Being one who doesn't give up so easily I headed back to the customer service counter to see if they could find an earlier flight to Grand Rapids. Oh man, that was a long line, filled with very irritated, tired and weary people. I fit in perfectly. After waiting what felt like forever I finally get to the front of the line. I wasn't there for more that 5 minutes and a guy taps my shoulder and asks me to follow him to another service counter. Nice. Getting somewhere. He brings me to another nice lady where I spill out my wonderful travel day's events, she seemed genuinely sad for me. Aww. A few clicks on her keys and sure enough, a direct flight to Grand Rapids at 10:30AM the next morning! After a few more clicks I had, in my hands, a real boarding pass to the flight that was going to take me home. I even confirmed it with her, two times. While she was clicking away on her computer I had asked her about if the airport offered cots to the stranded passengers, her response was "That's a good question" and never said any more. I thought that was an odd response but was too tired and excited about my ticket to push it any further.
 
-![](/images/uploads/uploads/IMG_0325-150x150.jpg "Dinner was served")
-
 Happy that I had found an earlier flight I resigned myself to my fate and went looking for someplace to get some dinner and have a beer. It was now past 11PM and, everything was closed! Are you kidding me?! One Starbucks, out of the many at the airport, was open. I think it stayed open mostly to serve the overnight airport staff. For $15 I had a sandwich, a banana, and a coffee. Dinner was served.
 
 With my belly full, sans a tasty brew, and figuring sleep wasn't really going to be an option, I went off exploring the airport. Being very tired from traveling all day I noticed I had developed a stumbling, lumbering gate. It reminded me of how a zombie walks. Looking at the other stranded people I noticed they were all doing the same thing, lumbering around aimlessly. I coined us all the "Airport Zombies".
-
-![](/images/uploads/IMG_0332-150x150.jpg "While exploring...")
 
 While exploring I found a "charging chair" where you could plug in your phone and/or laptop to top off the battery. Since this had been a problem all day I decided to stop to charge my phone, and rest my legs. I sat there for a while, waiting for my phone to charge and watching the zombies stumble by. It was getting close to midnight and they started playing some recording over the intercom about only ticketed passengers were allowed in the concourse after midnight and anyone found without a ticket would be escorted out. I'm thinking "Seriously, you're going to send security out to shake down everyone here that's trying to sleep?" I would have been just a tad upset if some security guard came by and woke me up out of my, lucky, slumber, only to "check my papers". That would have resulted in some yelling and "evil eye" glares. Thankfully, that never happened.
 
 After my charging needs were taken care of I went in search of a comfy chair or bench to try to rest my weary zombie bones. I found myself in concourse B, which had some decent chairs, and started noticing everyone else trying to lay down and rest. The people varied from little kids to little old ladies and I thought to myself, can't they find somewhere for these kids and little old ladies to sleep? What about those cots I asked about? Oh well, maybe this is just how it goes.
 
 I picked a far off grouping of chairs that had a couple put together without an arm rest between them, this was so I could try to lay down. But, two chairs weren't enough to fully stretch out so I had to kind of straddle an arm rest with my knees. It was not very comfortable but I forced myself to stay there and just rest and listen to the news channel they had playing on the TVs. It was maybe an hour before the discomfort forced me back up. Sitting there, uncomfortable, tired, and a bit cold (had they turned the heat down in this place?) I decided to get back up and walk over to the F concourse.
-
-![](/images/uploads/IMG_0327-150x150.jpg "Zombieland")
 
 The F concourse seemed to have more resting zombies and therefore was tougher to find some decent seating. Well, seating with missing arm rests, apparently the other zombies were drawn to them as well. I picked a random chair to rest a bit and while I was zoning out I noticed a woman getting up from her spot and leaving. Looking over there I noticed she had left 4 chairs in a row without arm rests! So, I grabbed my stuff and headed over there, it was so nice to stretch my legs out completely. It still wasn't what I'd call comfortable, but it was better than sitting in a chair or straddling an arm rest.
 
@@ -71,8 +61,6 @@ For whatever reason I woke up, yes WOKE UP, and checked my watch. It was now 4:3
 I had emailed the director of the group that was holding the land navigation course, that I was now going to miss, and he was very nice and accommodating. They ended up shifting my registration to a later event in March, so at least that was taken care of. Later I found out that they had a "memorial service", for me, their missing comrade, that's too funny.
 
 As the hours pass by I spent it reading, emailing, texting, and checking my various social networks. It definitely helped knowing that my flight was coming up. When 10AM closes in I make for my gate to wait for my flight home.
-
-![](/images/uploads/IMG_0335-150x150.jpg "Waiting at the gate")
 
 While sitting at the gate, people watching, some lady walks up and sits next to me. She's obviously unhappy and from her grumblings I found out she was a fellow airport zombie. We trade stories of our travel experiences, etc etc. and somehow the topic of cots came up. I mentioned that I had asked about them and didn't get anywhere and then she hits me with it... apparently they HAD COTS! They just neglected to tell anyone! She told me about how some gate attendant came up to her while she was resting and asked why she hadn't just grabbed a cot. She mentioned that no one had told her, he mentioned that, yes indeed, they had cots down by baggage claim. Are you kidding me?? I could've had a decent, not great, but decent night's sleep on a cot rather than find some chairs to "sleep" on.
 
