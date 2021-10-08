@@ -4,7 +4,6 @@ date: 2012-01-09 20:14
 categories: storytelling
 ---
 
-![](/assets/images/n501381078_1791955_1922-150x150.jpg)
 "You better dry off or you're gonna go into shock!" yelled my (now former) brother-in-law.
 
 _4 months earlier..._
