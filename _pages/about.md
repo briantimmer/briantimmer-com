@@ -9,8 +9,6 @@ Thoughts on Stuff and Junk?
 
 This is just my piece of the big-scary-web where I pontificate on stuff, and junk. Not that everything I write about is junk…. it’s well, just a funny name.
 
-Books. Day-to-day gear. Productivity systems. We’re all looking for the best of them.
+[Books](/categories/#books). [Quotes](/categories/#quotes). [Dumb stories](/categories/#storytelling).
 
-Here’s where I opine about those things and hopefully help suss out the best of them.
-
-Thanks for visiting!
+That’s the junk you’ll find here.
