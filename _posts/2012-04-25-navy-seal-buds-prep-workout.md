@@ -4,6 +4,8 @@ date: 2012-04-25 20:21
 categories: training
 ---
 
+{% include image.html url="/assets/images/us_navy_seals.jpg" description="US Navy SEAL BUD/S Instructor overseeing a beatdown" %}
+
 I'm not sure where I found this, or how long I've had it but here is a breakdown of a recommended workout a hopeful Navy SEAL should go through in the weeks leading up to [BUD/S training](http://en.wikipedia.org/wiki/United_States_Navy_SEAL_selection_and_training#Basic_Underwater_Demolition.2FSEAL_.28BUD.2FS.29). Since I can't remember where I found it I can't vouch for it's authenticity, but it seems plenty brutal. :)
 
 _Are you fit enough?_

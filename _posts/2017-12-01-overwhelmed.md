@@ -4,7 +4,7 @@ date: 2017-12-01 07:39:55 -0400
 categories: perspective
 ---
 
-!["‘Overwhelmed’ page 78–79 of Jocko Willink’s ‘Discipline Equals Freedom — Field Manual’"](/assets/images/overwhelmed.jpeg "‘Overwhelmed’ page 78–79 of Jocko Willink’s ‘Discipline Equals Freedom — Field Manual’")
+{% include image.html url="/assets/images/overwhelmed.jpeg" description="‘Overwhelmed’ page 78–79 of Jocko Willink’s ‘Discipline Equals Freedom — Field Manual’" %}
 
 Lately things have been a bit crazy. Some would say it’s been ‘overwhelming’, and they’d be right. Or, sort of right.
 
