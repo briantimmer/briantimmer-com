@@ -101,4 +101,8 @@ tag_archive:
   type: liquid
   path: /tags/
 
-google_analytics: UA-2019341-12
+# Analytics
+analytics:
+  provider: "google"
+  google:
+    tracking_id: UA-2019341-12
